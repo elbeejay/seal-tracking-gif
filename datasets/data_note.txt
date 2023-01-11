@@ -1,0 +1,5 @@
+Data from PANGAEA: https://doi.org/10.1594/PANGAEA.854842
+
+Supplement to Nachtsheim et al 2016 publication in Polar Biology: https://doi.org/10.1007/s00300-016-2020-0
+
+Notebook expects datasets folder from PANGAEA to be in this location.
